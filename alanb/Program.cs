@@ -4,6 +4,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Dikdortgen dikdortgen = new Dikdortgen(kisaKenar, uzunKenar);
+        dikdortgen.EkranaYazdir();
+
+        Daire daire = new Daire();
+        daire.EkranaYazdir();
     }
 }

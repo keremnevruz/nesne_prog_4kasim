@@ -1,0 +1,15 @@
+/Users/keremnevruz/Documents/GitHub/nesne_prog_4kasim/alanb/bin/Debug/net10.0/alanb
+/Users/keremnevruz/Documents/GitHub/nesne_prog_4kasim/alanb/bin/Debug/net10.0/alanb.deps.json
+/Users/keremnevruz/Documents/GitHub/nesne_prog_4kasim/alanb/bin/Debug/net10.0/alanb.runtimeconfig.json
+/Users/keremnevruz/Documents/GitHub/nesne_prog_4kasim/alanb/bin/Debug/net10.0/alanb.dll
+/Users/keremnevruz/Documents/GitHub/nesne_prog_4kasim/alanb/bin/Debug/net10.0/alanb.pdb
+/Users/keremnevruz/Documents/GitHub/nesne_prog_4kasim/alanb/obj/Debug/net10.0/alanb.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keremnevruz/Documents/GitHub/nesne_prog_4kasim/alanb/obj/Debug/net10.0/alanb.AssemblyInfoInputs.cache
+/Users/keremnevruz/Documents/GitHub/nesne_prog_4kasim/alanb/obj/Debug/net10.0/alanb.AssemblyInfo.cs
+/Users/keremnevruz/Documents/GitHub/nesne_prog_4kasim/alanb/obj/Debug/net10.0/alanb.csproj.CoreCompileInputs.cache
+/Users/keremnevruz/Documents/GitHub/nesne_prog_4kasim/alanb/obj/Debug/net10.0/alanb.sourcelink.json
+/Users/keremnevruz/Documents/GitHub/nesne_prog_4kasim/alanb/obj/Debug/net10.0/alanb.dll
+/Users/keremnevruz/Documents/GitHub/nesne_prog_4kasim/alanb/obj/Debug/net10.0/refint/alanb.dll
+/Users/keremnevruz/Documents/GitHub/nesne_prog_4kasim/alanb/obj/Debug/net10.0/alanb.pdb
+/Users/keremnevruz/Documents/GitHub/nesne_prog_4kasim/alanb/obj/Debug/net10.0/alanb.genruntimeconfig.cache
+/Users/keremnevruz/Documents/GitHub/nesne_prog_4kasim/alanb/obj/Debug/net10.0/ref/alanb.dll
